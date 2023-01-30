@@ -22,3 +22,11 @@ https://forum.cfx.re/t/staff-team-vest/5003082/
 `add_principal qbcore.trial qbcore.trial`
 
 Note: Make sure you add the inheritance correctly, otherwise it won't work
+
+# Screenshots
+
+* Trial Staff - https://i.imgur.com/HwQe7Oi.png
+* Support Staff - https://i.imgur.com/7sUXjsi.png
+* Moderator - https://i.imgur.com/Jru0p3K.png
+* Administrator - https://i.imgur.com/xcpntyp.png
+* Server Owner - https://i.imgur.com/aDvhw2o.png
